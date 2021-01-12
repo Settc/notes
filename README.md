@@ -2,9 +2,9 @@
 # Note Taker
 
 ## Description
-[!License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
     This application allows you to take to save persistent notes through the usage of an Express server hosted on Heroku. This server makes use of multiple routes and allows you to both save and delete notes.
-[!Screenshot](/public/assets/screenshot.png)
+![Screenshot](/public/assets/screenshot.png)
 ## Table of Contents
 
 * [Installation](#Installation)
